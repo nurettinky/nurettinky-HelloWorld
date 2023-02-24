@@ -11,4 +11,8 @@ import org.junit.Test;
      * Method sayHello() must return "Hello, World!". The trim method will remove any extra spaces or newlines at the end.
      */@Test
 
-     System.out.println("Hello, World!");
+     Class Main {
+      public class HelloWorldTest {
+        System.out.println("Hello, world!");
+      }
+    }
